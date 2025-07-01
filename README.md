@@ -68,8 +68,8 @@ bash
 
 
 Comando> create Estudar Node
-✅ Tarefa "Estudar Node" criada.
-🏁 Tarefa "Estudar Node" concluída!
+🏁 Tarefa "Estudar Node" criada.
+✅ Tarefa "Estudar Node" concluída!
 
 Comando> create Lavar roupa
 Comando> cancel Lavar roupa
